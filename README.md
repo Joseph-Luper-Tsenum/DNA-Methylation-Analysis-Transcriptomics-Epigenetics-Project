@@ -1,4 +1,4 @@
-# DNA Methylation Analysis (Transcritomics and Epigenetics Project)
+# DNA Methylation Analysis (Transcriptomics and Epigenetics Project)
 
 ### By Joseph Luper Tsenum
 
