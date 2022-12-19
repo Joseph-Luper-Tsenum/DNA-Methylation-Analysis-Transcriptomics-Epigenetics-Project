@@ -18,15 +18,15 @@ Chromosome Used: Chromosome 19 of Genome mm10 was used for alignment. FastQC Rep
 
 Bismark statistics can be found in the uploaded pdf file while the plots can be found below:
 
-                  Before Bismark Methylation extraction 
+                  Before Bismark Methylation extraction is shown below 
 ![image](https://user-images.githubusercontent.com/58364462/208530346-f5114e8a-f544-43fe-9594-396ca5d091d8.png) 
 
 
-                  After Bismark Methylation Extraction in Epiblast Rep1.
+                  After Bismark Methylation Extraction in Epiblast Rep1 is shown below 
 ![image](https://user-images.githubusercontent.com/58364462/208530413-4b8a545c-23e6-4f1d-97c8-39c67fcf0022.png)
 
 
-                  ICM Rep 2 M-Bias plot
+                  ICM Rep 2 M-Bias plot is shown below 
 ![image](https://user-images.githubusercontent.com/58364462/208530946-58f515a4-95c0-4fcd-9d72-699dd936c46b.png)
 
 
@@ -34,15 +34,15 @@ Bismark statistics can be found in the uploaded pdf file while the plots can be 
 
 ### The Histograms below shows the CpG Cytosine Methylation Levels Generated Using R package
 
-                  Average methylation level for Epiblast_rep1 = 0.7588857
+                  Average methylation level for Epiblast_rep1 = 0.7588857 as shown below 
 ![image](https://user-images.githubusercontent.com/58364462/208531037-43ff4bca-e150-48c4-84e7-7023c2c0d340.png)
 
 
-                  Average methylation level for Epiblast_rep2 = 0.7588857
+                  Average methylation level for Epiblast_rep2 = 0.7588857 as shown below 
 ![image](https://user-images.githubusercontent.com/58364462/208531202-4e5dbafd-c372-4907-9b19-53a96de12643.png)
 
 
-                  Average methylation level for ICM_rep2 = 0.1711466
+                  Average methylation level for ICM_rep2 = 0.1711466 as shown below 
 ![image](https://user-images.githubusercontent.com/58364462/208531766-fe7d31d3-2647-4e15-b371-e0fbc38c4dab.png)
 
 ![image](https://user-images.githubusercontent.com/58364462/208531827-1ce61df4-40d8-4bcc-ade5-dde2696bf0a0.png)
