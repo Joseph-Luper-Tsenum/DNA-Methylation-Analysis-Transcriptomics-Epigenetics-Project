@@ -1,4 +1,5 @@
-# DNA Methylation Analysis (Transcriptomics and Epigenetics Project)
+# CpG Methylation in Early Mouse Embryonic Development
+WGBS samples - (sequencing of the whole bisulfite genome)
 
 ### By Joseph Luper Tsenum
 
@@ -9,6 +10,20 @@ Phystech School of Biological and Medical Physics (FBMF)
 Moscow Institute of Physics and Technology (National Research University)
 
 Russian Federation
+
+### Introduction
+
+Chromosome Used: Chromosome 19 of Genome mm10 was used for alignment.
+
+### FastQC Reports for the three samples is contained in the uploaded txt file
+
+### Bismark Report
+
+![image](https://user-images.githubusercontent.com/58364462/208530346-f5114e8a-f544-43fe-9594-396ca5d091d8.png)
+Before Bismark Methylation extraction 
+
+![image](https://user-images.githubusercontent.com/58364462/208530413-4b8a545c-23e6-4f1d-97c8-39c67fcf0022.png)
+After Bismark Methylation Extraction in Epiblast Rep1.
 
 
 ### Commands Used
