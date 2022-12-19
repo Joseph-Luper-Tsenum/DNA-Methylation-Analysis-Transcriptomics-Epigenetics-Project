@@ -13,23 +13,28 @@ Russian Federation
 ### Commands Used
 
 Running fastq
-```fastq 8cell_rep1_trimmed_WGBS_R1.fastq.gz 8cell_rep1_trimmed_WGBS_R2.fastq.gz
+```bash
+fastq 8cell_rep1_trimmed_WGBS_R1.fastq.gz 8cell_rep1_trimmed_WGBS_R2.fastq.gz
 8cell_rep2_trimmed_WGBS_R1.fastq.gz 8cell_rep2_trimmed_WGBS_R2.fastq.gz
 Epiblast_rep1_trimmed_WGBS_R1.fastq.gz Epiblast_rep1_trimmed_WGBS_R2.fastq.gz
 Epiblast_rep2_trimmed_WGBS_R1.fastq.gz
 Epiblast_rep2_trimmed_WGBS_R2.fastq.gzICM_rep1_trimmed_WGBS_R1.fastq.gz
 ICM_rep1_trimmed_WGBS_R2.fastq.gz ICM_rep2_trimmed_WGBS_R1.fastq.gz
-ICM_rep2_trimmed_WGBS_R2.fastq.gz```
+ICM_rep2_trimmed_WGBS_R2.fastq.gz
+```
 
 Bismark Genome Preparation
-```to-mr -v -m bismark -o Epiblast_rep1_WGBS_1.deduplicated.mr
-Epiblast_rep1_WGBS_1.deduplicated.bam```
+```bash
+to-mr -v -m bismark -o Epiblast_rep1_WGBS_1.deduplicated.mr
+Epiblast_rep1_WGBS_1.deduplicated.bam
+```
 
 Sorting 
-
-```sort -k 1,1 -k 2,2n -k 3,3n -k 6,6 -o
+```bash
+sort -k 1,1 -k 2,2n -k 3,3n -k 6,6 -o
 Epiblast_rep1_trimmed_WGBS_R1_bismark_bt2_pe.deduplicated.mr
-Epiblast_rep1_trimmed_WGBS_R1_bismark_bt2_pe.deduplicated.mr```
+Epiblast_rep1_trimmed_WGBS_R1_bismark_bt2_pe.deduplicated.mr
+```
 
 ```methpipe/methpipe-3.4.3/bin/analysis/methcounts -cpg-only -c mouse_chr/chr19.fa -o
 Epiblast_rep1_trimmed_WGBS_R1_bismark_bt2_pe.deduplicated.all_CpGs.meth
