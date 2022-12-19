@@ -19,7 +19,7 @@ Chromosome Used: Chromosome 19 of Genome mm10 was used for alignment. FastQC Rep
 
 Bismark statistics can be found in the uploaded pdf file while the plots can be found below:
 
-Before Bismark Methylation extraction 
+                  Before Bismark Methylation extraction 
 ![image](https://user-images.githubusercontent.com/58364462/208530346-f5114e8a-f544-43fe-9594-396ca5d091d8.png) 
 
 
