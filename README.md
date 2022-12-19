@@ -172,3 +172,20 @@ https://genome.ucsc.edu/s/Josephluper/Epiblast_rep2_WGBS_1
 https://genome.ucsc.edu/s/Josephluper/ICM_rep1_WGBS_1
 
 https://genome.ucsc.edu/s/Josephluper/ICM_rep2_WGBS_1
+
+
+### References
+
+1. Smith ZD, Shi J, Gu H, Donaghey J, Clement K, Cacchiarelli D, Gnirke A, Michor F, Meissner A. Epigenetic restriction of extraembryonic lineages mirrors the somatic transition to cancer. Nature. 2017 Sep 28;549(7673):543-547. doi: 10.1038/nature23891. Epub 2017 Sep 20. PMID: 28959968; PMCID: PMC5789792.
+
+2. Krueger F, Andrews SR. Bismark: a flexible aligner and methylation caller for Bisulfite-Seq applications. Bioinformatics. 2011 Jun 1;27(11):1571-2. doi: 10.1093/bioinformatics/btr167. Epub 2011 Apr 14. PMID: 21493656; PMCID: PMC3102221.
+
+3. Kent WJ, Zweig AS, Barber G, Hinrichs AS, Karolchik D. BigWig and BigBed: enabling browsing of large distributed data sets. Bioinformatics. 2010 Sep 1;26(17):2204-7.
+
+4. Kent WJ, Sugnet CW, Furey TS, Roskin KM, Pringle TH, Zahler AM, Haussler D. The human genome browser at UCSC. Genome Res. 2002 Jun;12(6):996-1006.
+
+5. Song Q, Decato B, Hong E, Zhou M, Fang F, Qu J, Garvin T, Kessler M, Zhou J, Smith AD (2013) A reference methylome database and analysis pipeline to facilitate integrative and comparative epigenomics. PLOS ONE 8(12): e81148 [PDF] [Publisher Site]
+
+6.   R Core Team (2018). R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. URL https://www.R-project.org/.
+
+
