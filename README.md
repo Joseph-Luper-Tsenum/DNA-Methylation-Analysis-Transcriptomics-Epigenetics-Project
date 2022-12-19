@@ -12,8 +12,7 @@ Russian Federation
 
 ### Commands Used
 
-1. Running fastq
-
+Running fastq
 ```fastq 8cell_rep1_trimmed_WGBS_R1.fastq.gz 8cell_rep1_trimmed_WGBS_R2.fastq.gz
 8cell_rep2_trimmed_WGBS_R1.fastq.gz 8cell_rep2_trimmed_WGBS_R2.fastq.gz
 Epiblast_rep1_trimmed_WGBS_R1.fastq.gz Epiblast_rep1_trimmed_WGBS_R2.fastq.gz
@@ -22,10 +21,11 @@ Epiblast_rep2_trimmed_WGBS_R2.fastq.gzICM_rep1_trimmed_WGBS_R1.fastq.gz
 ICM_rep1_trimmed_WGBS_R2.fastq.gz ICM_rep2_trimmed_WGBS_R1.fastq.gz
 ICM_rep2_trimmed_WGBS_R2.fastq.gz```
 
-2. Bismark_genome_preparation
-
+Bismark Genome Preparation
 ```to-mr -v -m bismark -o Epiblast_rep1_WGBS_1.deduplicated.mr
 Epiblast_rep1_WGBS_1.deduplicated.bam```
+
+Sorting 
 
 ```sort -k 1,1 -k 2,2n -k 3,3n -k 6,6 -o
 Epiblast_rep1_trimmed_WGBS_R1_bismark_bt2_pe.deduplicated.mr
