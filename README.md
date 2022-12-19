@@ -30,8 +30,6 @@ Bismark statistics can be found in the uploaded pdf file while the plots can be 
 ![image](https://user-images.githubusercontent.com/58364462/208530946-58f515a4-95c0-4fcd-9d72-699dd936c46b.png)
 
 
-
-
 ### The Histograms below shows the CpG Cytosine Methylation Levels Generated Using R package
 
                   Average methylation level for Epiblast_rep1 = 0.7588857 as shown below 
@@ -46,6 +44,16 @@ Bismark statistics can be found in the uploaded pdf file while the plots can be 
 ![image](https://user-images.githubusercontent.com/58364462/208531766-fe7d31d3-2647-4e15-b371-e0fbc38c4dab.png)
 
 ![image](https://user-images.githubusercontent.com/58364462/208531827-1ce61df4-40d8-4bcc-ade5-dde2696bf0a0.png)
+
+### UCSC Genome Browser, cytosine Methylation and coverage overview at position chromosome 19 as shown below:
+
+![image](https://user-images.githubusercontent.com/58364462/208539403-92a3a3bc-d16d-471f-887a-9f8c68ba3ab8.png)
+
+![image](https://user-images.githubusercontent.com/58364462/208539478-494079fe-21ca-430c-bfd5-f5ee3eb6d0ca.png)
+
+![image](https://user-images.githubusercontent.com/58364462/208539514-8a9249f5-b42a-455d-b920-074eb502dce1.png)
+
+![image](https://user-images.githubusercontent.com/58364462/208539551-92b215bc-bb9a-4762-a8cf-fb97f72c3935.png)
 
 
 ### Commands Used
