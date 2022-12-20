@@ -16,11 +16,19 @@ Whole genome bisulfite sequencing (WGBS) fastq files carried out on mouse embryo
 
 From the analysis conducted on ICM and Epiblast, while ICM cells were hypomethylated more, epiblast were hypermethylated more. From my bismark extraction result, it can be seen that the percentage of methylation CpGs in epiblast far exceeds that of ICM in both replicates. This means that epiblast has been methylated more than ICM. On the otherhand, the number of unmethylated C's in CpG context of ICM is in abundance compared to epiblast unmethylated C's in CpG context. This means that ICM is hypomethylated while epiblast is hypermethylated. This confirms the believe that during the development of the embryo, CpG methylation decreases (about 25%) in the early stages as can be seen here in the case of ICM while during tissue differentiation, the CpG content increases significantly (about 90%) and remains throughout the life of the body as we can see here in the case of epiblast. This means that CpG methylation plays a crucial role in ICM cells pluripotency and cell differentiation. This therefore accounts for the global reduction levels of CpGs in the inner cell mass (ICM) which is accompanied by undetectable levels of DNA methyltransferase of each class in the nuclei of ICM while the levels of CpGs in epiblast increases as cell differentiation occurs.
 
-Chromosome Used: Chromosome 19 of Genome mm10 was used for alignment. FastQC Reports for the three samples is contained in the uploaded pdf file.
+Chromosome Used: Chromosome 19 of Genome mm10 was used for alignment. 
+
+FastQC Reports for the three samples
+
+![now3](https://user-images.githubusercontent.com/58364462/208570425-f20bb816-8e73-4e6c-90ed-caaddde1ed94.png)
+
 
 ### Bismark Report
 
-Bismark statistics can be found in the uploaded pdf file while the plots can be found below:
+Bismark statistics
+
+![now4](https://user-images.githubusercontent.com/58364462/208570667-c76bd918-6545-422d-9ab0-04be72ae27c0.png)
+
 
                   Before Bismark Methylation extraction is shown below 
 ![image](https://user-images.githubusercontent.com/58364462/208530346-f5114e8a-f544-43fe-9594-396ca5d091d8.png) 
